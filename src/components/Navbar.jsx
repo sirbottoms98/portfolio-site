@@ -1,7 +1,7 @@
 function Navbar() {
   return (
     <nav>
-      <h2>PatrickPaul.dev</h2>
+      <h2>Home</h2>
     </nav>
   );
 }
