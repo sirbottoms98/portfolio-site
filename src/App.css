@@ -61,12 +61,44 @@ body {
   font-weight: bold;
 }
 
-.primary {
+.button-projects {
   background-color: #2563eb;
   color: white;
 }
 
-.secondary {
+.button-contacts {
   border: 2px solid #475569;
   color: white;
+}
+
+.about-section {
+  min-height: 70vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+
+  padding: 4rem 2rem;
+}
+
+.about-title {
+  font-size: 2.5rem;
+
+  margin-bottom: 2rem;
+
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.about-description {
+  max-width: 800px;
+
+  font-size: 1.1rem;
+  line-height: 1.8;
+
+  color: #cbd5e1;
+
+  margin-bottom: 1.5rem;
 }
