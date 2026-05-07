@@ -4,11 +4,9 @@ function App() {
   return (
       <main className="landing-page">
           <section className="construction-banner">
-            <div className="construction-overlay">
               <p className="construction-text">
                 This site is currently under construction. Check back soon for updates!
               </p>
-            </div>
           </section>
 
           <section className="landing-section">
