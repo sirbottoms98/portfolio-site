@@ -5,7 +5,7 @@ function App() {
       <main className="landing-page">
           <section className="construction-banner">
               <p className="construction-text">
-                This site is currently under construction. Check back soon for updates!
+                Currently under construction. Check back soon for updates!
               </p>
           </section>
 
@@ -14,7 +14,7 @@ function App() {
               CE Student • Embedded Systems Engineer • Software Programmer
             </p>
 
-            <h1>Hello, I am Patrick Paul.</h1>
+            <h1>Hello, my name is Patrick Paul.</h1>
 
             <p className="landing-section-description">
               And I build projects that connect hardware, software, and real-world
